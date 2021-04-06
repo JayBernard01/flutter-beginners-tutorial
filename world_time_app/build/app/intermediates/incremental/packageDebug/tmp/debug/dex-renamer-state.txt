@@ -1,0 +1,4 @@
+#Tue Apr 06 13:20:30 EDT 2021
+base.0=C\:\\Users\\jer_b\\GitHubRepertoires\\flutter-beginners-tutorial\\world_time_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
